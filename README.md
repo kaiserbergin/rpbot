@@ -1,0 +1,1 @@
+A simple rp bot for dice rolling for my new game - rules in flux
